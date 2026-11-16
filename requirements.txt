@@ -1,0 +1,5 @@
+networkx
+streamlit
+pyvis
+python-nmap
+pandas
